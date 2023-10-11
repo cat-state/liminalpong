@@ -1,0 +1,21 @@
+{
+  "name": "liminalpong",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@react-three/cannon": "^6.6.0",
+    "@react-three/drei": "^9.88.0",
+    "@react-three/fiber": "^8.14.5",
+    "parcel": "^2.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.157.0",
+    "three-stdlib": "^2.27.1",
+    "vercel": "^32.4.1",
+    "zustand": "^4.4.3"
+  },
+  "devDependencies": {
+    "buffer": "^5.5.0||^6.0.0",
+    "process": "^0.11.10"
+  }
+}
